@@ -1,3 +1,13 @@
+
+```
+# debian系Linux自带 python 2.7
+# 要求安装 3.2.2 之前的 tornado
+sudo pip install  'tornado<=3.2.2' 
+# 最后运行服务 
+/usr/local/bin/butterfly.server.py
+```
+
+
 # ƸӜƷ butterfly 3.0
 
 ![](http://paradoxxxzero.github.io/assets/butterfly_2.0_1.gif)
